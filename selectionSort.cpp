@@ -70,5 +70,7 @@ int main()
 		//  for(int i=0;i<c.size();i++){
 		//  	cout<<c[i]<<" ";
 		//  }
+	
+	//Time complexity is O(n^2) = (n-1)(n-2) = n^2 - 3n - 2
 	return 0;
 }
