@@ -22,5 +22,6 @@ int main()
 		for(int i=0;i<n;i++){
 			cout<<a[i]<<" ";
 		}
+	//Time complexity O(n^2) because (n-1)(n-2) = n^2 - 3n + 2
 	return 0;
 }
